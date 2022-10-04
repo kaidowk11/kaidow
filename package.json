@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "kaidow:toggle"
   },
-  "repository": "https://github.com/atom/kaidow",
+  "repository": "https://github.com/kaidowk11/kaidow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
