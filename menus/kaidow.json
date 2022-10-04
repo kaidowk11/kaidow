@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle kaidow",
+        "command": "kaidow:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "kaidow",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "kaidow:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
